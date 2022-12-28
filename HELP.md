@@ -11,6 +11,7 @@ For further reference, please consider the following sections:
 * [Official Gradle documentation](https://docs.gradle.org)
 * [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.0.1/gradle-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.0.1/gradle-plugin/reference/html/#build-image)
+* [Coroutines section of the Spring Framework Documentation](https://docs.spring.io/spring/docs/6.0.3/spring-framework-reference/languages.html#coroutines)
 * [Spring Reactive Web](https://docs.spring.io/spring-boot/docs/3.0.1/reference/htmlsingle/#web.reactive)
 * [Spring Data Reactive MongoDB](https://docs.spring.io/spring-boot/docs/3.0.1/reference/htmlsingle/#data.nosql.mongodb)
 
