@@ -5,8 +5,8 @@ import com.example.webfkux.service.PlaylistService
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
 
-@RequestMapping("/playlist")
-@RestController
+//@RequestMapping("/playlist")
+//@RestController   comentado para não dar conflito com o handler
 class PlaylistController {
 
     @Autowired
